@@ -1,0 +1,14 @@
+node_modules/
+dist/
+artifacts/
+*.tsbuildinfo
+.DS_Store
+.netlify/
+.env
+.env.*
+!.env.example
+*.log
+
+# Local interview/research notes (not application source)
+GEF.txt
+GF.txt
